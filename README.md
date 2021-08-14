@@ -2,7 +2,7 @@
 
 Systems developer, absolutely adore creating low-level software 😍. Currently working primarily on programming language development. 😋
 
-Check my languages out here:
+Check out my languages here:
 * [Feral-Lang](https://github.com/Feral-Lang)
 * [Ethereal-Lang](https://github.com/Electrux/Ethereal)
 
