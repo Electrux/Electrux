@@ -1,6 +1,6 @@
 ### About Me
 
-Systems developer, absolutely adore creating low-level software 😍. Currently working primarily on programming language development. 😋
+Systems developer, absolutely adore creating low-level software 😍. Currently working primarily on programming language development 😋.
 
 Check out my languages here:
 * [Feral-Lang](https://github.com/Feral-Lang)
